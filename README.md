@@ -41,7 +41,7 @@ e. RAM: 1 GB or more (more for resource-intensive tasks).
 f. Disk Space: Depending on the applications and libraries you install; a few
 GBs are usually sufficient.
 
-7.2.1.2 Installation
+Installation
 
 1. Asterisk PBX:
 Install Linux: Choose a supported Linux distribution (e.g., CentOS, Ubuntu) and follow
